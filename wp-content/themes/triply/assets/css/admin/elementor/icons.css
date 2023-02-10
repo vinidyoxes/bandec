@@ -1,0 +1,593 @@
+
+@font-face {
+  font-family: "triply-icon";
+  src: url("../../../fonts/icons/triply-icon-2.2.6.eot");
+  src: url("../../../fonts/icons/triply-icon-2.2.6.eot?#iefix") format("eot"), url("../../../fonts/icons/triply-icon-2.2.6.woff2") format("woff2"), url("../../../fonts/icons/triply-icon-2.2.6.woff") format("woff"), url("../../../fonts/icons/triply-icon-2.2.6.ttf") format("truetype"), url("../../../fonts/icons/triply-icon-2.2.6.svg#triply-icon-2.2.6") format("svg"); }
+
+[class*="triply-icon-"] {
+  font-family: "triply-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle; }
+
+.triply-icon-angle-double-left:before {
+  content: ""; }
+
+.triply-icon-angle-double-right:before {
+  content: ""; }
+
+.triply-icon-angle-down:before {
+  content: ""; }
+
+.triply-icon-angle-up:before {
+  content: ""; }
+
+.triply-icon-beaches:before {
+  content: ""; }
+
+.triply-icon-best-price:before {
+  content: ""; }
+
+.triply-icon-best-travel:before {
+  content: ""; }
+
+.triply-icon-citytours:before {
+  content: ""; }
+
+.triply-icon-clock-time:before {
+  content: ""; }
+
+.triply-icon-cruise:before {
+  content: ""; }
+
+.triply-icon-destination:before {
+  content: ""; }
+
+.triply-icon-envelope-open:before {
+  content: ""; }
+
+.triply-icon-fast-booking:before {
+  content: ""; }
+
+.triply-icon-happy:before {
+  content: ""; }
+
+.triply-icon-hiking:before {
+  content: ""; }
+
+.triply-icon-historical:before {
+  content: ""; }
+
+.triply-icon-login:before {
+  content: ""; }
+
+.triply-icon-map-marker:before {
+  content: ""; }
+
+.triply-icon-menu:before {
+  content: ""; }
+
+.triply-icon-museum:before {
+  content: ""; }
+
+.triply-icon-passionate-travel:before {
+  content: ""; }
+
+.triply-icon-phone-1:before {
+  content: ""; }
+
+.triply-icon-phone-3:before {
+  content: ""; }
+
+.triply-icon-phone-rotary:before {
+  content: ""; }
+
+.triply-icon-places:before {
+  content: ""; }
+
+.triply-icon-quote-2:before {
+  content: ""; }
+
+.triply-icon-safety:before {
+  content: ""; }
+
+.triply-icon-search:before {
+  content: ""; }
+
+.triply-icon-star-bold:before {
+  content: ""; }
+
+.triply-icon-tag-left:before {
+  content: ""; }
+
+.triply-icon-ticket-alt:before {
+  content: ""; }
+
+.triply-icon-tours:before {
+  content: ""; }
+
+.triply-icon-types:before {
+  content: ""; }
+
+.triply-icon-utensils-alt:before {
+  content: ""; }
+
+.triply-icon-wine-glass-alt:before {
+  content: ""; }
+
+.triply-icon-adobe:before {
+  content: ""; }
+
+.triply-icon-amazon:before {
+  content: ""; }
+
+.triply-icon-android:before {
+  content: ""; }
+
+.triply-icon-angular:before {
+  content: ""; }
+
+.triply-icon-apper:before {
+  content: ""; }
+
+.triply-icon-apple:before {
+  content: ""; }
+
+.triply-icon-atlassian:before {
+  content: ""; }
+
+.triply-icon-behance:before {
+  content: ""; }
+
+.triply-icon-bitbucket:before {
+  content: ""; }
+
+.triply-icon-bitcoin:before {
+  content: ""; }
+
+.triply-icon-bity:before {
+  content: ""; }
+
+.triply-icon-bluetooth:before {
+  content: ""; }
+
+.triply-icon-btc:before {
+  content: ""; }
+
+.triply-icon-centos:before {
+  content: ""; }
+
+.triply-icon-chrome:before {
+  content: ""; }
+
+.triply-icon-codepen:before {
+  content: ""; }
+
+.triply-icon-cpanel:before {
+  content: ""; }
+
+.triply-icon-discord:before {
+  content: ""; }
+
+.triply-icon-dochub:before {
+  content: ""; }
+
+.triply-icon-docker:before {
+  content: ""; }
+
+.triply-icon-dribbble:before {
+  content: ""; }
+
+.triply-icon-dropbox:before {
+  content: ""; }
+
+.triply-icon-drupal:before {
+  content: ""; }
+
+.triply-icon-ebay:before {
+  content: ""; }
+
+.triply-icon-facebook:before {
+  content: ""; }
+
+.triply-icon-figma:before {
+  content: ""; }
+
+.triply-icon-firefox:before {
+  content: ""; }
+
+.triply-icon-google-plus:before {
+  content: ""; }
+
+.triply-icon-google:before {
+  content: ""; }
+
+.triply-icon-grunt:before {
+  content: ""; }
+
+.triply-icon-gulp:before {
+  content: ""; }
+
+.triply-icon-html5:before {
+  content: ""; }
+
+.triply-icon-jenkins:before {
+  content: ""; }
+
+.triply-icon-joomla:before {
+  content: ""; }
+
+.triply-icon-link-brand:before {
+  content: ""; }
+
+.triply-icon-linkedin:before {
+  content: ""; }
+
+.triply-icon-mailchimp:before {
+  content: ""; }
+
+.triply-icon-opencart:before {
+  content: ""; }
+
+.triply-icon-paypal:before {
+  content: ""; }
+
+.triply-icon-pinterest-p:before {
+  content: ""; }
+
+.triply-icon-reddit:before {
+  content: ""; }
+
+.triply-icon-skype:before {
+  content: ""; }
+
+.triply-icon-slack:before {
+  content: ""; }
+
+.triply-icon-snapchat:before {
+  content: ""; }
+
+.triply-icon-spotify:before {
+  content: ""; }
+
+.triply-icon-trello:before {
+  content: ""; }
+
+.triply-icon-twitter:before {
+  content: ""; }
+
+.triply-icon-vimeo:before {
+  content: ""; }
+
+.triply-icon-whatsapp:before {
+  content: ""; }
+
+.triply-icon-wordpress:before {
+  content: ""; }
+
+.triply-icon-yoast:before {
+  content: ""; }
+
+.triply-icon-youtube:before {
+  content: ""; }
+
+.triply-icon-angle-left:before {
+  content: ""; }
+
+.triply-icon-angle-right:before {
+  content: ""; }
+
+.triply-icon-arrow-circle-down:before {
+  content: ""; }
+
+.triply-icon-arrow-circle-left:before {
+  content: ""; }
+
+.triply-icon-arrow-circle-right:before {
+  content: ""; }
+
+.triply-icon-arrow-circle-up:before {
+  content: ""; }
+
+.triply-icon-arrow-left:before {
+  content: ""; }
+
+.triply-icon-arrow-right:before {
+  content: ""; }
+
+.triply-icon-arrows-h:before {
+  content: ""; }
+
+.triply-icon-bars:before {
+  content: ""; }
+
+.triply-icon-calendar-alt:before {
+  content: ""; }
+
+.triply-icon-calendar:before {
+  content: ""; }
+
+.triply-icon-camera-alt:before {
+  content: ""; }
+
+.triply-icon-caret-down:before {
+  content: ""; }
+
+.triply-icon-caret-left:before {
+  content: ""; }
+
+.triply-icon-caret-right:before {
+  content: ""; }
+
+.triply-icon-caret-up:before {
+  content: ""; }
+
+.triply-icon-cart-empty:before {
+  content: ""; }
+
+.triply-icon-check-circle:before {
+  content: ""; }
+
+.triply-icon-check-square:before {
+  content: ""; }
+
+.triply-icon-check:before {
+  content: ""; }
+
+.triply-icon-chevron-circle-left:before {
+  content: ""; }
+
+.triply-icon-chevron-circle-right:before {
+  content: ""; }
+
+.triply-icon-chevron-down:before {
+  content: ""; }
+
+.triply-icon-chevron-left:before {
+  content: ""; }
+
+.triply-icon-chevron-right:before {
+  content: ""; }
+
+.triply-icon-chevron-up:before {
+  content: ""; }
+
+.triply-icon-circle:before {
+  content: ""; }
+
+.triply-icon-clock:before {
+  content: ""; }
+
+.triply-icon-cloud-download-alt:before {
+  content: ""; }
+
+.triply-icon-comment:before {
+  content: ""; }
+
+.triply-icon-comments-alt:before {
+  content: ""; }
+
+.triply-icon-comments:before {
+  content: ""; }
+
+.triply-icon-contact:before {
+  content: ""; }
+
+.triply-icon-credit-card:before {
+  content: ""; }
+
+.triply-icon-dot-circle:before {
+  content: ""; }
+
+.triply-icon-edit:before {
+  content: ""; }
+
+.triply-icon-envelope:before {
+  content: ""; }
+
+.triply-icon-expand-alt:before {
+  content: ""; }
+
+.triply-icon-external-link-alt:before {
+  content: ""; }
+
+.triply-icon-eye:before {
+  content: ""; }
+
+.triply-icon-fan:before {
+  content: ""; }
+
+.triply-icon-file-alt:before {
+  content: ""; }
+
+.triply-icon-file-archive:before {
+  content: ""; }
+
+.triply-icon-filter:before {
+  content: ""; }
+
+.triply-icon-folder-open:before {
+  content: ""; }
+
+.triply-icon-folder:before {
+  content: ""; }
+
+.triply-icon-free_ship:before {
+  content: ""; }
+
+.triply-icon-frown:before {
+  content: ""; }
+
+.triply-icon-gift:before {
+  content: ""; }
+
+.triply-icon-grip-horizontal:before {
+  content: ""; }
+
+.triply-icon-heart-fill:before {
+  content: ""; }
+
+.triply-icon-heart:before {
+  content: ""; }
+
+.triply-icon-history:before {
+  content: ""; }
+
+.triply-icon-home:before {
+  content: ""; }
+
+.triply-icon-info-circle:before {
+  content: ""; }
+
+.triply-icon-instagram:before {
+  content: ""; }
+
+.triply-icon-level-up-alt:before {
+  content: ""; }
+
+.triply-icon-location-circle:before {
+  content: ""; }
+
+.triply-icon-long-arrow-alt-down:before {
+  content: ""; }
+
+.triply-icon-long-arrow-alt-left:before {
+  content: ""; }
+
+.triply-icon-long-arrow-alt-right:before {
+  content: ""; }
+
+.triply-icon-long-arrow-alt-up:before {
+  content: ""; }
+
+.triply-icon-long-arrow-left:before {
+  content: ""; }
+
+.triply-icon-long-arrow-right:before {
+  content: ""; }
+
+.triply-icon-map-marker-alt:before {
+  content: ""; }
+
+.triply-icon-map-marker-check:before {
+  content: ""; }
+
+.triply-icon-meh:before {
+  content: ""; }
+
+.triply-icon-minus-circle:before {
+  content: ""; }
+
+.triply-icon-mobile-android-alt:before {
+  content: ""; }
+
+.triply-icon-money-bill:before {
+  content: ""; }
+
+.triply-icon-pencil-alt:before {
+  content: ""; }
+
+.triply-icon-play-2:before {
+  content: ""; }
+
+.triply-icon-plus-circle:before {
+  content: ""; }
+
+.triply-icon-plus:before {
+  content: ""; }
+
+.triply-icon-quote:before {
+  content: ""; }
+
+.triply-icon-random:before {
+  content: ""; }
+
+.triply-icon-reply-all:before {
+  content: ""; }
+
+.triply-icon-reply:before {
+  content: ""; }
+
+.triply-icon-search-plus:before {
+  content: ""; }
+
+.triply-icon-shield-check:before {
+  content: ""; }
+
+.triply-icon-shopping-basket:before {
+  content: ""; }
+
+.triply-icon-shopping-cart:before {
+  content: ""; }
+
+.triply-icon-sign-in-alt:before {
+  content: ""; }
+
+.triply-icon-sign-out-alt:before {
+  content: ""; }
+
+.triply-icon-smile:before {
+  content: ""; }
+
+.triply-icon-spinner:before {
+  content: ""; }
+
+.triply-icon-square:before {
+  content: ""; }
+
+.triply-icon-star:before {
+  content: ""; }
+
+.triply-icon-sync:before {
+  content: ""; }
+
+.triply-icon-tachometer-alt:before {
+  content: ""; }
+
+.triply-icon-tags:before {
+  content: ""; }
+
+.triply-icon-th-large:before {
+  content: ""; }
+
+.triply-icon-th-list:before {
+  content: ""; }
+
+.triply-icon-thumbtack:before {
+  content: ""; }
+
+.triply-icon-times-circle:before {
+  content: ""; }
+
+.triply-icon-times:before {
+  content: ""; }
+
+.triply-icon-trophy-alt:before {
+  content: ""; }
+
+.triply-icon-truck:before {
+  content: ""; }
+
+.triply-icon-unlock:before {
+  content: ""; }
+
+.triply-icon-user-headset:before {
+  content: ""; }
+
+.triply-icon-user-shield:before {
+  content: ""; }
+
+.triply-icon-user:before {
+  content: ""; }
+
+.triply-icon-users:before {
+  content: ""; }
+
+.triply-icon-video:before {
+  content: ""; }
+
